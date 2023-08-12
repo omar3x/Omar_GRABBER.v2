@@ -1,4 +1,4 @@
-## THE SOURCE CODE FOR THE GUI YOU CAN GET IT IN MY DISCORD SERVER  || https://discord.gg/8Sa85M838d ||
+## You Can Get The Source Code For GUI in My Discord Server  || https://discord.gg/8Sa85M838d ||
 
 
 
