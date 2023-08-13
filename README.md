@@ -43,12 +43,13 @@ NOTE: You Cant Have Space With Your EXE name If you want to Do that you can simp
 **Disclaimer**: This tool comes with risks. Use it responsibly and respect the privacy and security of others.
 
 
+**EX**
+
+![image](https://github.com/omar3x/Token_GRABBER.v2/assets/117691016/953663ac-623c-4767-9768-352c432b1bf1)
 
 
 
 
-
-![image](https://github.com/omar3x/Token_GRABBER.v2/assets/117691016/ca04cfb4-cea4-452d-a02a-9899c4d7c817)
 
 
 
