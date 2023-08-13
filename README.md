@@ -45,9 +45,10 @@ NOTE: You Cant Have Space With Your EXE name If you want to Do that you can simp
 
 
 
-![Capture](https://github.com/omarcx/OmaR_Grabber-V2/assets/117691016/17f17faa-0a57-40b5-a871-abde83925954)
 
 
+
+![image](https://github.com/omar3x/Token_GRABBER.v2/assets/117691016/ca04cfb4-cea4-452d-a02a-9899c4d7c817)
 
 
 
