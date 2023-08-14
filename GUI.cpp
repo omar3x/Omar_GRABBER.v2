@@ -1,13 +1,3 @@
-#define _CRT_SECURE_NO_WARNINGS // Add this before including the headers
-#include <iostream>
-#include <fstream>
-#include <cstdlib>
-#include <string>
-#include <wx/wx.h>
-#include <wx/wxcrt.h>
-#include <wx/filefn.h>
-#include <thread> // Include for threading
-#include <condition_variable> // Include for condition variable
 
 // Function to check if command executed successfully
 bool isCommandSuccessful(const std::string& cmd) {
@@ -68,17 +58,7 @@ bool MyApp::OnInit() {
 MyFrame::MyFrame(const wxString& title, const wxPoint& pos, const wxSize& size)
     : wxFrame(NULL, wxID_ANY, title, pos, size)
 {
-    wxPanel* panel = new wxPanel(this, wxID_ANY);
-
-    wxStaticText* lblWebhook = new wxStaticText(panel, wxID_ANY, "Enter your webhook URL:", wxPoint(20, 20));
-    txtWebhook = new wxTextCtrl(panel, wxID_ANY, "", wxPoint(20, 40), wxSize(400, -1));
-
-    wxStaticText* lblExeName = new wxStaticText(panel, wxID_ANY, "Enter the name for the .exe file:", wxPoint(20, 80));
-    txtExeName = new wxTextCtrl(panel, wxID_ANY, "", wxPoint(20, 100), wxSize(400, -1));
-
-    btnGenerate = new wxButton(panel, ID_BTN_GENERATE, "Generate EXE", wxPoint(150, 150), wxDefaultSize);
-    progressBar = new wxGauge(panel, wxID_ANY, 100, wxPoint(20, 200), wxSize(400, 20));
-    progressBar->SetValue(0);
+// join discord
 }
 
 void MyFrame::OnButtonGenerate(wxCommandEvent& event) {
@@ -146,7 +126,7 @@ void MyFrame::UpdateProgressBar(int progress) {
 }
 
 void MyFrame::OnThreadCompletion() {
-    // Nothing to do here for now,
+    // JOIN DISCORD
 }
 
 wxIMPLEMENT_APP(MyApp);
