@@ -1,7 +1,7 @@
 ## You Can Get The Source Code For GUI in My Discord Server  || https://discord.gg/8Sa85M838d ||
 
 
-
+:) WSP 2024
 
 # <span style="color:purple;">OmaR_Grabber-V2 Instructions</span>
 
